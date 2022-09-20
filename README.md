@@ -15,7 +15,7 @@ I'm a <strong>Software Developer</strong> who enjoys using proven skills and exp
 
 - 💻 I’m currently working on <strong>Front-End Web Development</strong> and <strong>Open Source Contributions</strong>
 - 💎 I have high-spirited interest in the <strong>Javascript</strong> language and its technologies
-- 🍀 I’m currently learning <strong>React JS</strong>
+- 🍀 I have interest in <strong>React JS</strong>
 - 📖 I graduated from <strong>Lagos State University</strong> and majored in <strong>Computer Science</strong>
 - 💪 I’m looking to collaborate on <strong>Software Development Projects</strong>
 - 🚀 <strong>Tech⚡</strong> || <strong>Music🎵</strong> || <strong>CFC⚽</strong>
