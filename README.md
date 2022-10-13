@@ -18,7 +18,7 @@ I'm a <strong>Software Developer</strong> who enjoys using proven skills and exp
 - 🍀 I have interest in <strong>React JS</strong>
 - 📖 I graduated from <strong>Lagos State University</strong> and majored in <strong>Computer Science</strong>
 - 💪 I’m looking to collaborate on <strong>Software Development Projects</strong>
-- 🚀 <strong>Tech⚡</strong> || <strong>Music🎵</strong> || <strong>CFC⚽</strong>
+- 🚀 <strong>Tech⚡</strong> || <strong>Music🎵</strong> || <strong>CFC⚽</strong> 
 - Love 💜 
 
 ----
