@@ -11,7 +11,7 @@ I'm a <strong>Software Developer</strong> who enjoys using proven skills and exp
 
 ----
 
-### Here are some information about me 📌
+### Here are some information about me 📌 
 
 - 💻 I’m currently working on <strong>Front-End Web Development</strong> and <strong>Open Source Contributions</strong>
 - 💎 I have high-spirited interest in the <strong>Javascript</strong> language and its technologies
