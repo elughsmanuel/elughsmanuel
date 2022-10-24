@@ -5,7 +5,7 @@
 
 ----
 
-### Summary 💡
+### Summary 💡 
 
 I'm a <strong>Software Engineer</strong> who enjoys using proven skills and experiences in <strong>interaction design,</strong> <strong>developing</strong> and <strong>testing</strong> multiple websites / web-based applications to meet business plans. Always amazed by every recent update on <strong>technology</strong>, I'm skilled in the <strong>design</strong> and <strong>development</strong> of modern-day-driven applications. Expert in <strong>data security</strong> and have a theoretical background in <strong>computer science</strong> and <strong>computational systems.</strong> 
 
