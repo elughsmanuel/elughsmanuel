@@ -55,7 +55,7 @@ Live Demo: [iEXCHANGE](https://iexchange.netlify.app/) || Repository: [GitHub](h
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 </a>
 
-----
+---- 
 
 | <a href="https://github.com/elughsmanuel"><img src="https://github-readme-stats.vercel.app/api?username=elughsmanuel&show_icons=true&hide=contribs&cache_seconds=86400&theme=radical"></a> | <a href="https://github.com/elughsmanuel"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elughsmanuel&layout=compact" /></a> |
 | ------------- | ------------- |
