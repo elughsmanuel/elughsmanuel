@@ -22,7 +22,7 @@ I'm a <strong>Software Engineer</strong> who enjoys using proven skills and expe
 - Love 💜 
 
 ----
-### Projects 🔨
+### Projects 🔨 
 
 #### - BOOK APP
 Live Demo: [Book App](https://thebookapp.netlify.app/) || Repository: [GitHub](https://github.com/elughsmanuel/book-app)
