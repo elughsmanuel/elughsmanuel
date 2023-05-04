@@ -13,16 +13,17 @@ I'm a <strong>Software Engineer</strong> who enjoys using proven skills and expe
 
 ### Here are some information about me 📌 
 
-- 💻 I’m currently working on <strong>Front-End Web Development</strong> and <strong>Open Source Contributions</strong>
+- 💻 I’m working on <strong>Software Development Projects</strong>
 - 💎 I have high-spirited interest in the <strong>Javascript</strong> language and its technologies
-- 🍀 I have interest in <strong>React JS</strong>
 - 📖 I graduated from <strong>Lagos State University</strong> and majored in <strong>Computer Science</strong>
-- 💪 I’m looking to collaborate on <strong>Software Development Projects</strong>
-- 🚀 <strong>Tech⚡</strong> || <strong>Music🎵</strong> || <strong>CFC⚽</strong> 
+- 💪 I’m open to collaboration on <strong>Open Source Projects</strong>
 - Love 💜 
 
 ----
 ### Projects 🔨 
+
+#### - LAWYER UP
+Live Demo: [Lawyer Up](https://www.uselawyerup.live/) || Repository: Private)
 
 #### - BOOK APP
 Live Demo: [Book App](https://thebookapp.netlify.app/) || Repository: [GitHub](https://github.com/elughsmanuel/book-app)
