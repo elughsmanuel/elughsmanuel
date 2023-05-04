@@ -23,7 +23,7 @@ I'm a <strong>Software Engineer</strong> who enjoys using proven skills and expe
 ### Projects 🔨 
 
 #### - LAWYER UP
-Live Demo: [Lawyer Up](https://www.uselawyerup.live/) || Repository: Private)
+Live Demo: [Lawyer Up](https://www.uselawyerup.live/) || Repository: Private
 
 #### - BOOK APP
 Live Demo: [Book App](https://thebookapp.netlify.app/) || Repository: [GitHub](https://github.com/elughsmanuel/book-app)
