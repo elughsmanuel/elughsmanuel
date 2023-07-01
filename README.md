@@ -1,36 +1,5 @@
 # Hi there 👋 I'm Emmanuel Elugbaju 
 
-|  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto:mailtoelugbajuemmanueltobi@gmail.com) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/elughsmanuel) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/emmanuel-elugbaju/) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/elughsm) |  [<img align="left" alt="Apurv's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg"/>](https://medium.com/@elughsmanuel) 
-|---|---|---|---|---|
-
-----
-
-### Summary 💡 
-
-I'm a <strong>Software Engineer</strong> who enjoys using proven skills and experiences in <strong>interaction design,</strong> <strong>developing</strong> and <strong>testing</strong> multiple websites / web-based applications to meet business plans. Always amazed by every recent update on <strong>technology</strong>, I'm skilled in the <strong>design</strong> and <strong>development</strong> of modern-day-driven applications. Expert in <strong>data security</strong> and have a theoretical background in <strong>computer science</strong> and <strong>computational systems.</strong> 
-
-----
-
-### Here are some information about me 📌 
-
-- 💻 I’m working on <strong>Software Development Projects</strong>
-- 💎 I have high-spirited interest in the <strong>Javascript</strong> language and its technologies
-- 📖 I graduated from <strong>Lagos State University</strong> and majored in <strong>Computer Science</strong>
-- 💪 I’m open to collaboration on <strong>Open Source Projects</strong>
-- Love 💜 
-
-----
-### Projects 🔨 
-
-#### - LAWYER UP
-Live Demo: [Lawyer Up](https://www.uselawyerup.live/) || Repository: Private
-
-#### - BOOK APP
-Live Demo: [Book App](https://thebookapp.netlify.app/) || Repository: [GitHub](https://github.com/elughsmanuel/book-app)
-
-#### - iEXCHANGE
-Live Demo: [iEXCHANGE](https://iexchange.netlify.app/) || Repository: [GitHub](https://github.com/elughsmanuel/iexchange)
- 
 ----
 
 ### Languages & Tools 🛠
